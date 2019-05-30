@@ -1,0 +1,4 @@
+# China-Climate-Inquiry
+use R to introduce China Climate Inquiry
+Our website collects statistics on China's climate distribution so that people who want to travel to different places can view the climate of Chinese destinations. Mainly from the popular city's temperature, precipitation, air volume distribution and its changes with the season, presented to the user in graphical form. Easy to view.
+We have reviewed and collected the weather and weather conditions of popular cities in China in the past five years, and formed a data set. It is presented to the user in the form of a chart, which is clear and easy to understand. The map dataset encapsulation method is used to draw a map of China, and the location of the city can be displayed by the user, and the maps dataset is used to facilitate the user to view and know where the destination is located.
